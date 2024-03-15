@@ -1,0 +1,14 @@
+.ColorList {
+    position: absolute;
+    top: 0;
+    left: 0; 
+    right: 0;
+    bottom: 0;
+    background-color: #273c75;
+    color:#f5f6fa;
+}
+
+ul {
+    list-style: none;
+    padding:0px;
+}
